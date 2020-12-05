@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server that serves images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
